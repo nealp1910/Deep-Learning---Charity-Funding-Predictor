@@ -1,1 +1,1 @@
-# Deep-Learning---Charity-Funding-Predictor
+# Charity Funding Predictor
